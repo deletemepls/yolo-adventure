@@ -1,9 +1,5 @@
 yolo-adventure
 ==============
 
-<3
-
-some test
-=========
-Well done, son
+I think I'm done with this now
 
