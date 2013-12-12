@@ -2,6 +2,6 @@ language: c
 compiler:
   - gcc
 # Change this to your needs
-script: gcc main.c
+script: gcc main.c; ./a.out
 
 
